@@ -1,5 +1,6 @@
 # Posner-Cueing-Task
-für Übung 6 Experimental und Analyseprogrammierung von F. Sahan
+
+Für Übung 6 Experimental und Analyseprogrammierung von F. Sahan
 
 2 Ordner: 1. Experiment, 2. Skripts
 
